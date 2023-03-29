@@ -13,3 +13,6 @@ for towar in zakupy:
     counter+=1
 print(f"W sumie kupuję {counter} produkty.")
 print('\n')
+
+print(f"W sumie kupuję {counter} produkty.")
+print('\n')
