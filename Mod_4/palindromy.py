@@ -20,3 +20,4 @@ def ask_user_for_words_in_loop_and_print_if_word_is_palindrome():
             print("\nTwoje słowo nie jest palindromem\n")
 
 ask_user_for_words_in_loop_and_print_if_word_is_palindrome()
+
