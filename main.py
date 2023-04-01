@@ -11,7 +11,5 @@ for sklep, towar in zakupy.items():
 counter = 0
 for towar in zakupy:
     counter+=1
-print(f"W sumie kupuję {counter} produkty.")
+print(f"W sumie kupuję {counter} produkty.\n")
 
-print(f"W sumie kupuję {counter} produkty.")
-print('\n')
