@@ -34,7 +34,7 @@ class BusinessContact():
         """Sformułowanie wyboru wizytówki"""
         person_card = f" Wybieram numer służbowy {self.business_phone} i dzwonię do {self.name.title()} {self.forname.title()}."
         print(person_card)
-        
+    
     def label_length(self):
         """Wyświetlenie długości imienia i nazwiska"""
         print(f" Imię i nazwisko ma {len(self.name + self.forname)} znaków.")
